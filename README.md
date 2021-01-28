@@ -1,6 +1,6 @@
 ### about me
 
-😄 **Hello Hello,Theo here! **
+😄 **Hello Hello,Theo here!**
 
 🐀 **A Java Programmer who lived in Chengdu City.**
 
