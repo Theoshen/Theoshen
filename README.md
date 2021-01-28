@@ -8,11 +8,11 @@
 
 🐀 **A Java Programmer**
 
- 📍 &emsp;**Chengdu City**
+ 📍 **Chengdu City**
 
 ⚽ **Los Merengues** **¡Hala Madrid! ...y nada más** 
 
-&emsp;**Amateur football player**
+**Amateur football player**
    
 📸 **instagram: [theo7n15](https://www.instagram.com/theo7n15/)** 
 
