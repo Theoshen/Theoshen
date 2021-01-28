@@ -6,6 +6,6 @@
 
 ⚽ **Los Merengues**   **¡Hala Madrid! ...y nada más**    **&**  **Amateur football player**
 
-```
+
 ![](https://github-readme-stats.vercel.app/api?username=Theoshen)
-```
+
